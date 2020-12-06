@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jonas Ventimiglia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Drexel University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Social Network Analysis, Missing data and child development.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Network Analysis
+- Racial Impacts of Missing Data
+- Prosocial development in Childrent
 
 education:
   courses:

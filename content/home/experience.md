@@ -34,12 +34,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Research Assistant"
+  company = "Leavitt Partners Insight"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Salt Lake City, UT"
+  date_start = "2019-05-01"
+  date_end = "2019-5-31"
+  description = """
+  
+  [[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "University of Maryland, College Park"
+  company_url = ""
+  location = "College Park, MD"
+  date_start = "2019-08-01"
+  date_end = "2020-5-31"
+  description = """
 
 +++

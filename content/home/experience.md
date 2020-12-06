@@ -40,6 +40,13 @@ date_format = "Jan 2006"
   location = "Salt Lake City, UT"
   date_start = "2019-05-01"
   date_end = "2019-5-31"
-  description = """
+    description = """
+  Responsibilities include:
+  
+  * Social Network Analysis
+  * Modelling
+  * Analysis
+  * Data Management
+  """
 
 +++

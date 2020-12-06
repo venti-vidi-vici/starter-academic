@@ -41,15 +41,5 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-5-31"
   description = """
-  """
 
-[[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "University of Maryland, College Park"
-  company_url = ""
-  location = "College Park, MD"
-  date_start = "2019-08-01"
-  date_end = "2020-5-31"
-  description = """
-"""
 +++
